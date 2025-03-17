@@ -1,4 +1,4 @@
-# Glados自动签到
+# Glados自动签到https://glados.eu.org/
 
 ## 食用方式：
 
