@@ -46,7 +46,7 @@
 
 - 添加1个`repository secret`，命名为`PUSHDEER_SENDKEY`，其值对应 PushDeer key: ([获取地址](https://www.pushdeer.com/product.html))。
 
-### **star**自己的仓库
+### **star**自己的仓库,才会触发自动运行！！！
 
 ![图片加载失败](imgs/4.png)
 
@@ -73,6 +73,7 @@
 ## 声明
 
 本项目不保证稳定运行与更新, 因GitHub相关规定可能会删库, 请注意备份
+
 
 
 
